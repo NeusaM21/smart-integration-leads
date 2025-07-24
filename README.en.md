@@ -68,24 +68,18 @@ All this happens **in seconds**, with zero manual effort.
 
 ## 📁 Project Structure
 
-smart-integration-leads/
-├── README.md
-├── README.en.md
-├── /assets/ # Logos and visuals
-│ ├── background-thumb.png
-│ ├── demo-automacao.gif
-│ ├── fluxo-integracao.png
-│ ├── logo-make.png
-│ ├── logo-n8n.png
-│ ├── logo-openai.png
-│ └── logo-zapier.png
-├── /docs/ # Step-by-step documentation
-│ ├── 01_formulario.md
-│ ├── 02_fluxo_automacao.md
-│ └── 03_ia_gpt.md
-├── /scripts/ # Optional Python code for AI
-│ └── generate_email_response.py (coming soon)
-
+- `README.md` — Main documentation (Portuguese)
+- `README.en.md` — English documentation
+- `assets/` — Images and logos
+  - `fluxo-integracao.png` — Visual automation flow
+  - `demo-automacao.gif` — Animated automation demo
+  - `background-thumb.png`, `logo-openai.png`, `logo-zapier.png`, etc.
+- `docs/` — Step-by-step documentation
+  - `01_formulario.md` — Setting up the lead capture form
+  - `02_fluxo_automacao.md` — Creating the automation flow in Make
+  - `03_ia_gpt.md` — Integrating GPT-4
+- `scripts/` — Optional Python scripts
+  - `generate_email_response.py` (coming soon)
 
 ---
 
@@ -93,6 +87,5 @@ smart-integration-leads/
 
 📧 [contact.neusam21@gmail.com](mailto:contact.neusam21@gmail.com)  
 💼 Available for freelance projects and collaborations
-
 
 ---

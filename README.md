@@ -68,8 +68,6 @@ Tudo isso **em segundos**, sem você mover um dedo.
 
 ## 📁 Estrutura do Projeto
 
-## 📁 Estrutura do Projeto
-
 - `README.md` — Documentação principal (pt-BR)
 - `README.en.md` — Versão em inglês
 - `assets/` — Imagens e logos

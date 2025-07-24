@@ -1,3 +1,5 @@
+<img src="assets/banner-pt.png" alt="Banner Smart Integration for Leads - Português" width="100%">
+
 # 🤖 Smart Integration for Leads | Make + GPT + CRM
 
 ![Workflow](https://img.shields.io/badge/No--Code-Automation-blueviolet?style=for-the-badge)

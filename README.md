@@ -4,9 +4,9 @@
 ![GPT Powered](https://img.shields.io/badge/AI-GPT--4-informational?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-Automação inteligente e 100% no-code para captar, responder e organizar leads em segundos — sem escrever uma única linha de código.
+Automação 100% no-code para capturar, responder e organizar leads — tudo isso em segundos, sem digitar uma única linha de código.
 
-> 🚀 Ideal para freelancers, agências, e-commerces, SaaS e criadores de conteúdo.
+> 🚀 Ideal para freelancers, agências, e-commerces, SaaS e criadores de conteúdo que querem escalar sem complicar.
 
 ---
 
@@ -16,27 +16,35 @@ Automação inteligente e 100% no-code para captar, responder e organizar leads 
 
 ---
 
+## 📌 Sumário Rápido
+
+- [📄 Formulário de Leads](docs/01_formulario.md)
+- [🔁 Fluxo no Make](docs/02_fluxo_automacao.md)
+- [🤖 Integração com GPT-4](docs/03_ia_gpt.md)
+
+---
+
 ## 💼 Cenário de Uso
 
-📨 Um lead preenche o formulário →  
-📋 Os dados vão para o Google Sheets →  
-🤖 A IA gera uma resposta personalizada →  
-📩 O lead recebe um e-mail automático →  
-📲 Sua equipe é notificada no WhatsApp/Slack →  
-📈 E o lead é registrado no seu CRM (HubSpot)
+1. 📝 Um lead preenche o formulário  
+2. 📊 Os dados caem direto no Google Sheets  
+3. 🤖 A IA gera uma resposta personalizada  
+4. 📩 O lead recebe um e-mail automático  
+5. 📲 A equipe é notificada no Slack ou WhatsApp  
+6. 📇 O lead é salvo no CRM (HubSpot)
 
-Tudo isso **em segundos**, sem você mover um dedo.
+Tudo isso **de forma instantânea**, sem esforço manual. Magia? Quase. É IA com automação 😎
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- 📝 Formulário (Typeform ou Google Forms)
-- 📊 Registro no Google Sheets
-- 🧠 Resposta inteligente via GPT-4
-- 📧 Envio de e-mail automático (Gmail API)
-- 🔔 Notificação por Slack ou WhatsApp
-- 📇 Inserção do lead no CRM (HubSpot)
+- Captura de leads com Typeform / Google Forms  
+- Armazenamento automático no Google Sheets  
+- Resposta inteligente com OpenAI GPT-4  
+- Envio de e-mail via Gmail API  
+- Notificação por Slack ou WhatsApp  
+- Integração final com HubSpot CRM  
 
 ---
 
@@ -45,10 +53,10 @@ Tudo isso **em segundos**, sem você mover um dedo.
 | Função                  | Ferramenta               |
 |-------------------------|--------------------------|
 | Automação               | Make / Zapier / n8n      |
-| Captura de leads        | Typeform / Google Forms  |
+| Captura de Leads        | Typeform / Google Forms  |
 | Armazenamento           | Google Sheets            |
-| Inteligência artificial | OpenAI GPT-4             |
-| E-mail automático       | Gmail API                |
+| Inteligência Artificial | OpenAI GPT-4             |
+| E-mail Automático       | Gmail API                |
 | CRM                     | HubSpot                  |
 | Notificação             | Slack / WhatsApp         |
 
@@ -56,29 +64,27 @@ Tudo isso **em segundos**, sem você mover um dedo.
 
 ## 🎥 Veja em Ação
 
-🔁 **Fluxo Visual da Automação**
-
+🔁 **Fluxo da Automação**  
 ![Fluxo de Integração](assets/fluxo-integracao.png)
 
-📽️ **Demonstração prática**
-
+📽️ **Demonstração Real**  
 👉 [Clique aqui para ver o fluxo funcionando (GIF)](assets/demo-automacao.gif)
 
 ---
 
 ## 📁 Estrutura do Projeto
 
-- `README.md` — Documentação principal (pt-BR)
-- `README.en.md` — Versão em inglês
-- `assets/` — Imagens e logos
-  - `fluxo-integracao.png` — Fluxo visual da automação
-  - `demo-automacao.gif` — Demo animada
-  - `logo-openai.png`, `logo-make.png`, etc.
-- `docs/` — Tutoriais passo a passo
-  - `01_formulario.md`
-  - `02_fluxo_automacao.md`
-  - `03_ia_gpt.md`
-- `scripts/` — Códigos Python opcionais
+- `README.md` — Documentação principal (pt-BR)  
+- `README.en.md` — Versão em inglês  
+- `assets/` — Imagens e logos  
+  - `fluxo-integracao.png` — Fluxo visual da automação  
+  - `demo-automacao.gif` — Demo animada  
+  - `logo-openai.png`, `logo-make.png`, etc.  
+- `docs/` — Tutoriais passo a passo  
+  - `01_formulario.md`  
+  - `02_fluxo_automacao.md`  
+  - `03_ia_gpt.md`  
+- `scripts/` — Códigos Python opcionais  
   - `generate_email_response.py` (em breve)
 
 ---
@@ -89,4 +95,3 @@ Tudo isso **em segundos**, sem você mover um dedo.
 💼 Aberta a colaborações e freelas
 
 Vamos automatizar o mundo! 😎💻🚀
-

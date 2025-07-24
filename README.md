@@ -68,22 +68,20 @@ Tudo isso **em segundos**, sem você mover um dedo.
 
 ## 📁 Estrutura do Projeto
 
-smart-integration-leads/
-├── README.md
-├── /assets/ # Logos e imagens visuais
-│ ├── background-thumb.png
-│ ├── demo-automacao.gif
-│ ├── fluxo-integracao.png
-│ ├── logo-make.png
-│ ├── logo-n8n.png
-│ ├── logo-openai.png
-│ └── logo-zapier.png
-├── /docs/ # Documentação do passo a passo
-│ ├── 01_formulario.md
-│ ├── 02_fluxo_automacao.md
-│ └── 03_ia_gpt.md
-├── /scripts/ # Código Python para IA (opcional)
-│ └── generate_email_response.py (em breve)
+## 📁 Estrutura do Projeto
+
+- `README.md` — Documentação principal (pt-BR)
+- `README.en.md` — Versão em inglês
+- `assets/` — Imagens e logos
+  - `fluxo-integracao.png` — Fluxo visual da automação
+  - `demo-automacao.gif` — Demo animada
+  - `logo-openai.png`, `logo-make.png`, etc.
+- `docs/` — Tutoriais passo a passo
+  - `01_formulario.md`
+  - `02_fluxo_automacao.md`
+  - `03_ia_gpt.md`
+- `scripts/` — Códigos Python opcionais
+  - `generate_email_response.py` (em breve)
 
 ---
 

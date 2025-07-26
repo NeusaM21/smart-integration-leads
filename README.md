@@ -71,7 +71,9 @@ Tudo isso **de forma instantânea**, sem esforço manual. Magia? Quase. É IA co
 
 📽️ **Demonstração Real**
 
-<img src="assets/demo.gif" alt="Demonstração do formulário com WhatsApp" width="600">
+## 🎥 Demonstração Real
+
+<img src="https://github.com/NeusaM21/smart-integration-leads/blob/main/assets/demo.gif?raw=true" alt="Demonstração do formulário com WhatsApp" width="600">
 
 ---
 

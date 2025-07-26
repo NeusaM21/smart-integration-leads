@@ -73,7 +73,7 @@ Tudo isso **de forma instantânea**, sem esforço manual. Magia? Quase. É IA co
 
 ## 🎥 Demonstração Real
 
-![Demonstração do formulário com WhatsApp](https://github.com/NeusaM21/smart-integration-leads/blob/main/assets/demo.gif?raw=true)
+<img src="assets/demo.gif" alt="Demonstração do formulário com WhatsApp" width="600">
 
 ---
 

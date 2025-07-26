@@ -69,11 +69,11 @@ Tudo isso **de forma instantânea**, sem esforço manual. Magia? Quase. É IA co
 🔁 **Fluxo da Automação**  
 ![Fluxo de Integração](assets/fluxo-integracao.png)
 
-📽️ **Demonstração Real**
+---
 
 ## 🎥 Demonstração Real
 
-<img src="https://github.com/NeusaM21/smart-integration-leads/blob/main/assets/demo.gif?raw=true" alt="Demonstração do formulário com WhatsApp" width="600">
+![Demonstração do formulário com WhatsApp](https://github.com/NeusaM21/smart-integration-leads/blob/main/assets/demo.gif?raw=true)
 
 ---
 

@@ -69,8 +69,9 @@ Tudo isso **de forma instantânea**, sem esforço manual. Magia? Quase. É IA co
 🔁 **Fluxo da Automação**  
 ![Fluxo de Integração](assets/fluxo-integracao.png)
 
-📽️ **Demonstração Real**  
-👉 [Clique aqui para ver o fluxo funcionando (GIF)](assets/demo-automacao.gif)
+📽️ **Demonstração Real**
+
+<img src="assets/demo-automacao.gif" alt="Demonstração do formulário com WhatsApp" width="600">
 
 ---
 

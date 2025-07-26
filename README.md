@@ -73,7 +73,7 @@ Tudo isso **de forma instantânea**, sem esforço manual. Magia? Quase. É IA co
 
 ## 🎥 Demonstração Real
 
-<img src="demo.gif" alt="Demonstração do formulário com WhatsApp" width="600">
+![Demonstração do formulário com WhatsApp](demo.gif)
 
 ---
 

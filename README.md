@@ -96,7 +96,7 @@ Tudo isso **de forma instantânea**, sem esforço manual. Magia? Quase. É IA co
 
 ## 🎥 Demonstração Real
 
-![Demonstração do formulário com WhatsApp](assets/demo.gif)
+![Demonstração do formulário com WhatsApp](demo.gif)
 
 ---
 

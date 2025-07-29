@@ -105,20 +105,23 @@ Tudo isso **de forma instantânea**, sem esforço manual. Magia? Quase. É IA co
 smart-integration-leads/
 ├── README.md
 ├── README.en.md
+├── demo-automacao.gif
 ├── assets/
-│   ├── banner-pt.png
-│   ├── banner-en.png
-│   ├── fluxo-integracao.png
-│   ├── demo-automacao.gif
-│   ├── logo-openai.png
-│   ├── logo-make.png
-│   └── logo-hubspot.png
+│ ├── banner-pt.png
+│ ├── banner-en.png
+│ ├── fluxo-integracao.png
+│ ├── logo-openai.png
+│ ├── logo-make.png
+│ ├── logo-n8n.png
+│ ├── logo-zapier.png
+│ └── logo-hubspot.png
 ├── docs/
-│   ├── 01_formulario.md
-│   ├── 02_fluxo_automacao.md
-│   └── 03_ia_gpt.md
+│ ├── 01_formulario.md
+│ ├── 02_fluxo_automacao.md
+│ └── 03_ia_gpt.md
 ├── scripts/
-│   └── generate_email_response.py
+│ └── generate_email_response.py
+└── .gitignore
 
 ---
 

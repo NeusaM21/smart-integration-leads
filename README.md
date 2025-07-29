@@ -6,23 +6,36 @@
 ![GPT Powered](https://img.shields.io/badge/AI-GPT--4-informational?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-Automação 100% no-code para capturar, responder e organizar leads — tudo isso em segundos, sem digitar uma única linha de código.
+📖 [Versão em Inglês](README.en.md) | 🇧🇷 Você está lendo a versão em Português
 
-> 🚀 Ideal para freelancers, agências, e-commerces, SaaS e criadores de conteúdo que querem escalar sem complicar.
+---
+
+> Automação inteligente com GPT-4 e Make para qualificação de leads, integração com CRM (HubSpot), envio de e-mails automáticos e notificações via Slack ou WhatsApp.
+
+---
+
+Essa integração vai além do básico: ela **responde com inteligência**, **organiza os dados**, e **notifica sua equipe em tempo real** — tudo isso sem digitar uma única linha de código.  
+Perfeita para freelancers, agências, e-commerces, SaaS e criadores de conteúdo que querem escalar sem complicar.
+
+---
+
+## 📌 Sumário Rápido
+
+- [✨ Prévia Visual](#-prévia-visual)
+- [💼 Cenário de Uso](#-cenário-de-uso)
+- [⚙️ Funcionalidades](#-funcionalidades)
+- [🔌 Ferramentas Utilizadas](#-ferramentas-utilizadas)
+- [🚀 Testar este Projeto](#-testar-este-projeto)
+- [🎥 Veja em Ação](#-veja-em-ação)
+- [🎥 Demonstração Real](#-demonstração-real)
+- [📁 Estrutura do Projeto](#-estrutura-do-projeto)
+- [📬 Fale Comigo](#-fale-comigo)
 
 ---
 
 ## ✨ Prévia Visual
 
 <img src="assets/fluxo-integracao.png" alt="Fluxo da Automação" width="100%">
-
----
-
-## 📌 Sumário Rápido
-
-- [📄 Formulário de Leads](docs/01_formulario.md)
-- [🔁 Fluxo no Make](docs/02_fluxo_automacao.md)
-- [🤖 Integração com GPT-4](docs/03_ia_gpt.md)
 
 ---
 
@@ -64,6 +77,16 @@ Tudo isso **de forma instantânea**, sem esforço manual. Magia? Quase. É IA co
 
 ---
 
+## 🚀 Testar este Projeto
+
+1. Crie uma conta gratuita em [Make.com](https://www.make.com)  
+2. Importe o [fluxo visual](docs/02_fluxo_automacao.md) do projeto  
+3. Conecte com seu formulário Typeform ou Google Forms  
+4. Configure sua conta do OpenAI, Gmail e HubSpot  
+5. Execute e veja a mágica acontecer em segundos! ✨
+
+---
+
 ## 🎥 Veja em Ação
 
 🔁 **Fluxo da Automação**  
@@ -73,24 +96,29 @@ Tudo isso **de forma instantânea**, sem esforço manual. Magia? Quase. É IA co
 
 ## 🎥 Demonstração Real
 
-![Demonstração do formulário com WhatsApp](demo.gif)
+![Demonstração do formulário com WhatsApp](assets/demo-automacao.gif)
 
 ---
 
 ## 📁 Estrutura do Projeto
 
-- `README.md` — Documentação principal (pt-BR)  
-- `README.en.md` — Versão em inglês  
-- `assets/` — Imagens e logos  
-  - `fluxo-integracao.png` — Fluxo visual da automação  
-  - `demo-automacao.gif` — Demo animada  
-  - `logo-openai.png`, `logo-make.png`, etc.  
-- `docs/` — Tutoriais passo a passo  
-  - `01_formulario.md`  
-  - `02_fluxo_automacao.md`  
-  - `03_ia_gpt.md`  
-- `scripts/` — Códigos Python opcionais  
-  - `generate_email_response.py` (em breve)
+smart-integration-leads/
+├── README.md
+├── README.en.md
+├── assets/
+│   ├── banner-pt.png
+│   ├── banner-en.png
+│   ├── fluxo-integracao.png
+│   ├── demo-automacao.gif
+│   ├── logo-openai.png
+│   ├── logo-make.png
+│   └── logo-hubspot.png
+├── docs/
+│   ├── 01_formulario.md
+│   ├── 02_fluxo_automacao.md
+│   └── 03_ia_gpt.md
+├── scripts/
+│   └── generate_email_response.py
 
 ---
 
@@ -98,5 +126,15 @@ Tudo isso **de forma instantânea**, sem esforço manual. Magia? Quase. É IA co
 
 📧 [contact.neusam21@gmail.com](mailto:contact.neusam21@gmail.com)  
 💼 Aberta a colaborações e freelas
+
+---
+
+## 🧪 Em Desenvolvimento
+
+- Painel de acompanhamento com Streamlit  
+- Integração via chatbot (Telegram / WhatsApp Business API)  
+- Template visual para duplicação fácil
+
+---
 
 Vamos automatizar o mundo! 😎💻🚀

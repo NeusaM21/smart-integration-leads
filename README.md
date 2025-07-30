@@ -125,14 +125,14 @@ smart-integration-leads/
 │   └── generate_email_response.py
 └── .gitignore
 
-´´´
-
+```
 
 ---
 
+
 ## 📬 Fale Comigo
 
-📧 [contact.neusam21@gmail.com](mailto:contact.neusam21@gmail.com)  
+📧 Email: [neusam21@gmail.com](mailto:neusam21@gmail.com) 
 💼 Aberta a colaborações e freelas
 
 ---

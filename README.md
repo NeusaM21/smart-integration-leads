@@ -23,19 +23,13 @@ Perfeita para freelancers, agências, e-commerces, SaaS e criadores de conteúdo
 
 - [✨ Prévia Visual](#-prévia-visual)
 - [💼 Cenário de Uso](#-cenário-de-uso)
-- [- [⚙️ Funcionalidades](#funcionalidades)
+- [⚙️ Funcionalidades](#funcionalidades)
 - [🔌 Ferramentas Utilizadas](#-ferramentas-utilizadas)
 - [🚀 Testar este Projeto](#-testar-este-projeto)
 - [🎥 Veja em Ação](#-veja-em-ação)
 - [🎥 Demonstração Real](#-demonstração-real)
 - [📁 Estrutura do Projeto](#-estrutura-do-projeto)
 - [📬 Fale Comigo](#-fale-comigo)
-
----
-
-## ✨ Prévia Visual
-
-<img src="assets/fluxo-integracao.png" alt="Fluxo da Automação" width="100%">
 
 ---
 

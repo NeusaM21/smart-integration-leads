@@ -6,88 +6,119 @@
 ![GPT Powered](https://img.shields.io/badge/AI-GPT--4-informational?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-Fully no-code automation to capture, respond to, and organize leads — all in seconds, without writing a single line of code.
-
-> 🚀 Ideal for freelancers, agencies, e-commerce, SaaS, and content creators looking to scale without complexity.
+🇧🇷 [Versão em Português](README.md) | 📖 You’re reading the English version
 
 ---
 
-## ✨ Visual Preview
-
-<img src="assets/fluxo-integracao.png" alt="Automation Flow" width="100%">
+> Smart automation with GPT-4 and Make for lead qualification, CRM integration (HubSpot), automatic email replies, and real-time notifications via Slack or WhatsApp.
 
 ---
 
-## 📌 Quick Summary
-
-- [📄 Lead Form](docs/01_formulario.md)
-- [🔁 Make Flow](docs/02_fluxo_automacao.md)
-- [🤖 GPT-4 Integration](docs/03_ia_gpt.md)
+This workflow goes beyond the basics: it **responds intelligently**, **organizes data**, and **notifies your team in real time** — all without writing a single line of code.  
+Perfect for freelancers, agencies, e-commerce, SaaS businesses, and creators who want to scale with ease.
 
 ---
 
-## 💼 Use Case
+## Quick Summary 📌
+
+- [Use Case](#use-case)
+- [Features](#features)
+- [Tools Used](#tools-used)
+- [Try This Project](#try-this-project)
+- [See It in Action](#see-it-in-action)
+- [Live Demo](#live-demo)
+- [Project Structure](#project-structure)
+- [Contact Me](#contact-me)
+
+---
+
+## Use Case
 
 1. 📝 A lead fills out the form  
-2. 📊 The data is instantly stored in Google Sheets  
+2. 📊 The data goes straight into Google Sheets  
 3. 🤖 AI generates a personalized response  
 4. 📩 The lead receives an automated email  
-5. 📲 Your team is notified on Slack or WhatsApp  
+5. 📲 Your team gets notified on Slack or WhatsApp  
 6. 📇 The lead is saved in your CRM (HubSpot)
 
-All of this happens **instantly**, with zero manual work. Magic? Almost. It's AI + automation 😎
+All of this **instantly**, with zero manual work. Magic? Almost. It’s AI + automation 😎
 
 ---
 
-## ⚙️ Features
+## Features
 
-- Lead capture with Typeform / Google Forms  
-- Automatic storage in Google Sheets  
-- Smart reply using OpenAI GPT-4  
-- Email sending via Gmail API  
-- Notifications via Slack or WhatsApp  
-- CRM sync with HubSpot  
-
----
-
-## 🔌 Tools Used
-
-| Role                  | Tool                    |
-|-----------------------|-------------------------|
-| Automation            | Make / Zapier / n8n     |
-| Lead Capture          | Typeform / Google Forms |
-| Storage               | Google Sheets           |
-| Artificial Intelligence | OpenAI GPT-4           |
-| Email Automation      | Gmail API               |
-| CRM                   | HubSpot                 |
-| Notifications         | Slack / WhatsApp        |
+- Lead capture using Typeform / Google Forms  
+- Auto-save to Google Sheets  
+- Smart reply generation using OpenAI GPT-4  
+- Email delivery via Gmail API  
+- Notifications through Slack or WhatsApp  
+- Final integration with HubSpot CRM  
 
 ---
 
-## 🎥 See It in Action
+## Tools Used
 
-🔁 **Automation Flow**  
-![Integration Flow](assets/fluxo-integracao.png)
-
-📽️ **Live Demo**  
-👉 [Click here to watch the GIF demo](assets/demo-automacao.gif)
+| Function               | Tool                      |
+|------------------------|---------------------------|
+| Automation             | Make / Zapier / n8n       |
+| Lead Capture           | Typeform / Google Forms   |
+| Storage                | Google Sheets             |
+| Artificial Intelligence| OpenAI GPT-4              |
+| Email Automation       | Gmail API                 |
+| CRM                    | HubSpot                   |
+| Notification           | Slack / WhatsApp          |
 
 ---
 
-## 📁 Project Structure
+## Try This Project
 
-- `README.md` — Main documentation (pt-BR)  
-- `README.en.md` — English version  
-- `assets/` — Visuals and logos  
-  - `fluxo-integracao.png` — Visual automation flow  
-  - `demo-automacao.gif` — Animated demo  
-  - `logo-openai.png`, `logo-make.png`, etc.  
-- `docs/` — Step-by-step tutorials  
-  - `01_formulario.md`  
-  - `02_fluxo_automacao.md`  
-  - `03_ia_gpt.md`  
-- `scripts/` — Optional Python scripts  
-  - `generate_email_response.py` (coming soon)
+1. Create a free account at [Make.com](https://www.make.com)  
+2. Import the project’s [visual flow](docs/02_fluxo_automacao.md)  
+3. Connect your Typeform or Google Form  
+4. Set up your OpenAI, Gmail, and HubSpot accounts  
+5. Run it and watch the magic happen in seconds! ✨
+
+---
+
+## See It in Action
+
+🧠 **Automation Flow**
+
+![Integration Flow](assets/fluxo-integracao-final.png)
+
+---
+
+## Live Demo
+
+![Form Demo with WhatsApp](demo.gif)
+
+---
+
+## Project Structure
+
+```plaintext
+smart-integration-leads/
+├── README.md
+├── README.en.md
+├── demo.gif
+├── assets/
+│   ├── banner-pt.png
+│   ├── banner-en.png
+│   ├── fluxo-integracao.png
+│   ├── logo-openai.png
+│   ├── logo-make.png
+│   ├── logo-n8n.png
+│   ├── logo-zapier.png
+│   └── logo-hubspot.png
+├── docs/
+│   ├── 01_formulario.md
+│   ├── 02_fluxo_automacao.md
+│   └── 03_ia_gpt.md
+├── scripts/
+│   └── generate_email_response.py
+└── .gitignore
+
+```
 
 ---
 

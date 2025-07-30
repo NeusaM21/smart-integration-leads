@@ -21,14 +21,16 @@ Perfeita para freelancers, agências, e-commerces, SaaS e criadores de conteúdo
 
 ## 📌 Sumário Rápido
 
-- [💼 Cenário de Uso](#cenário-de-uso)
+## 📌 Sumario Rapido
+
+- [Cenario de Uso](#cenario-de-uso)
 - [Funcionalidades](#funcionalidades)
-- [🧩 Ferramentas Utilizadas](#ferramentas-utilizadas)
-- [🚀 Testar este Projeto](#testar-este-projeto)
-- [🎬 Veja em Ação](#veja-em-ação)
-- [🎥 Demonstração Real](#demonstração-real)
-- [📁 Estrutura do Projeto](#estrutura-do-projeto)
-- [📬 Fale Comigo](#fale-comigo)
+- [Ferramentas Utilizadas](#ferramentas-utilizadas)
+- [Testar este Projeto](#testar-este-projeto)
+- [Veja em Acao](#veja-em-acao)
+- [Demonstracao Real](#demonstracao-real)
+- [Estrutura do Projeto](#estrutura-do-projeto)
+- [Fale Comigo](#fale-comigo)
 
 ---
 

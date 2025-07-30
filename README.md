@@ -32,7 +32,7 @@ Perfeita para freelancers, agências, e-commerces, SaaS e criadores de conteúdo
 
 ---
 
-## Cenario de Uso 💼
+## Cenario de Uso
 
 1. 📝 Um lead preenche o formulário  
 2. 📊 Os dados caem direto no Google Sheets  
@@ -45,7 +45,7 @@ Tudo isso **de forma instantânea**, sem esforço manual. Magia? Quase. É IA co
 
 ---
 
-## Funcionalidades ⚙️
+## Funcionalidades
 
 - Captura de leads com Typeform / Google Forms  
 - Armazenamento automático no Google Sheets  
@@ -56,7 +56,7 @@ Tudo isso **de forma instantânea**, sem esforço manual. Magia? Quase. É IA co
 
 ---
 
-## Ferramentas Utilizadas 🧩
+## Ferramentas Utilizadas
 
 | Função                  | Ferramenta               |
 |-------------------------|--------------------------|
@@ -70,7 +70,7 @@ Tudo isso **de forma instantânea**, sem esforço manual. Magia? Quase. É IA co
 
 ---
 
-## Testar este Projeto 🚀
+## Testar este Projeto
 
 1. Crie uma conta gratuita em [Make.com](https://www.make.com)  
 2. Importe o [fluxo visual](docs/02_fluxo_automacao.md) do projeto  
@@ -80,7 +80,7 @@ Tudo isso **de forma instantânea**, sem esforço manual. Magia? Quase. É IA co
 
 ---
 
-## Veja em Acao 🎬
+## Veja em Acao
 
 🧠 **Fluxo da Automação**  
 
@@ -88,13 +88,13 @@ Tudo isso **de forma instantânea**, sem esforço manual. Magia? Quase. É IA co
 
 ---
 
-## Demonstracao Real 🎥
+## Demonstracao Real
 
 ![Demonstração do formulário com WhatsApp](demo.gif)
 
 ---
 
-## Estrutura do Projeto 📁
+## Estrutura do Projeto
 
 ```plaintext
 smart-integration-leads/
@@ -123,7 +123,7 @@ smart-integration-leads/
 ---
 
 
-## Fale Comigo 📬
+## Fale Comigo
 
 📧 Email: [neusam21@gmail.com](mailto:neusam21@gmail.com) 
 💼 Aberta a colaborações e freelas

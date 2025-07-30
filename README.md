@@ -46,7 +46,7 @@ Tudo isso **de forma instantânea**, sem esforço manual. Magia? Quase. É IA co
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades ⚙️
 
 - Captura de leads com Typeform / Google Forms  
 - Armazenamento automático no Google Sheets  

@@ -91,7 +91,7 @@ Tudo isso **de forma instantânea**, sem esforço manual. Magia? Quase. É IA co
 
 🔁 **Fluxo da Automação**  
 
-![Fluxo de Integração](assets/fluxo-integracao.png)
+![Fluxo de Integração](assets/fluxo-integracao-v2.png)
 
 ---
 

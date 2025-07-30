@@ -103,6 +103,7 @@ Tudo isso **de forma instantânea**, sem esforço manual. Magia? Quase. É IA co
 
 ## 📁 Estrutura do Projeto
 
+```plaintext
 smart-integration-leads/
 ├── README.md
 ├── README.en.md

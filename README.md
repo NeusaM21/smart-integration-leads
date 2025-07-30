@@ -19,7 +19,7 @@ Perfeita para freelancers, agências, e-commerces, SaaS e criadores de conteúdo
 
 ---
 
-## 📌 Sumario Rapido
+## Sumario Rapido 📌
 
 - [Cenario de Uso](#cenario-de-uso)
 - [Funcionalidades](#funcionalidades)

@@ -90,7 +90,7 @@ All of this **instantly**, with zero manual work. Magic? Almost. It’s AI + aut
 
 ## Live Demo
 
-![Form Demo with WhatsApp](demo.gif)
+![Form Demo with WhatsApp](demonstracao-form-whatsapp.gif)
 
 ---
 

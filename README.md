@@ -124,6 +124,8 @@ smart-integration-leads/
 ├── scripts/
 │   └── generate_email_response.py
 └── .gitignore
+´´´
+---
 
 ---
 

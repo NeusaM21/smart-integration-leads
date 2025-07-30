@@ -6,7 +6,7 @@
 ![GPT Powered](https://img.shields.io/badge/AI-GPT--4-informational?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-📖 [Versão em Inglês](README.en.md) | 🇧🇷 Você está lendo a versão em Português
+📖 [English Version](README.en.md) | 🇧🇷 Você está lendo a versão em Português
 
 ---
 
@@ -23,7 +23,7 @@ Perfeita para freelancers, agências, e-commerces, SaaS e criadores de conteúdo
 
 - [✨ Prévia Visual](#-prévia-visual)
 - [💼 Cenário de Uso](#-cenário-de-uso)
-- [⚙️ Funcionalidades](#-funcionalidades)
+- [- [⚙️ Funcionalidades](#funcionalidades)
 - [🔌 Ferramentas Utilizadas](#-ferramentas-utilizadas)
 - [🚀 Testar este Projeto](#-testar-este-projeto)
 - [🎥 Veja em Ação](#-veja-em-ação)
@@ -87,9 +87,9 @@ Tudo isso **de forma instantânea**, sem esforço manual. Magia? Quase. É IA co
 
 ---
 
-## 🎥 Veja em Ação
+## 🎬 Veja em Ação
 
-🔁 **Fluxo da Automação**  
+🧠 **Fluxo da Automação**  
 
 ![Fluxo de Integração](assets/fluxo-integracao-final.png)
 

@@ -122,7 +122,7 @@ smart-integration-leads/
 
 ---
 
-## 📬 Contact
+## Contact Me
 
 📧 [contact.neusam21@gmail.com](mailto:contact.neusam21@gmail.com)  
 💼 Open for freelance work and collaborations

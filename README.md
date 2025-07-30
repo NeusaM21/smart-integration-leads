@@ -21,15 +21,14 @@ Perfeita para freelancers, agências, e-commerces, SaaS e criadores de conteúdo
 
 ## 📌 Sumário Rápido
 
-- [✨ Prévia Visual](#-prévia-visual)
-- [💼 Cenário de Uso](#-cenário-de-uso)
-- [⚙️ Funcionalidades](#funcionalidades)
-- [🔌 Ferramentas Utilizadas](#-ferramentas-utilizadas)
-- [🚀 Testar este Projeto](#-testar-este-projeto)
-- [🎥 Veja em Ação](#-veja-em-ação)
-- [🎥 Demonstração Real](#-demonstração-real)
-- [📁 Estrutura do Projeto](#-estrutura-do-projeto)
-- [📬 Fale Comigo](#-fale-comigo)
+- [💼 Cenário de Uso](#cenário-de-uso)
+- [Funcionalidades](#funcionalidades)
+- [🧩 Ferramentas Utilizadas](#ferramentas-utilizadas)
+- [🚀 Testar este Projeto](#testar-este-projeto)
+- [🎬 Veja em Ação](#veja-em-ação)
+- [🎥 Demonstração Real](#demonstração-real)
+- [📁 Estrutura do Projeto](#estrutura-do-projeto)
+- [📬 Fale Comigo](#fale-comigo)
 
 ---
 

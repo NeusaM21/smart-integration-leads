@@ -102,6 +102,9 @@ cd smart-integration-leads
 
 [🔍 View Full Flow in High Resolution](assets/fluxo-integracao-final.png)
 
+<img src="assets/fluxo-integracao-final.png" alt="Automation Flow Diagram" width="100%">
+
+
 ---
 
 ## Live Demo

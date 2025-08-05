@@ -23,11 +23,11 @@ Perfeita para freelancers, agências, e-commerces, SaaS e criadores de conteúdo
 
 ## Sumário Rápido 📌
 
-- [Cenário de Uso](#cenario-de-uso)
+- [Cenario de Uso](#cenario-de-uso)
 - [Funcionalidades](#funcionalidades)
 - [Ferramentas Utilizadas](#ferramentas-utilizadas)
 - [Testar este Projeto](#testar-este-projeto)
-- [🚀 Clone e Teste Localmente (Opcional)](#clone-e-teste-localmente-opcional)
+- [Clone e Teste Localmente (Opcional)](#clone-e-teste-localmente-opcional)
 - [Veja em Ação](#veja-em-acao)
 - [Demonstração Real](#demonstracao-real)
 - [Estrutura do Projeto](#estrutura-do-projeto)
@@ -36,7 +36,7 @@ Perfeita para freelancers, agências, e-commerces, SaaS e criadores de conteúdo
 
 ---
 
-## Cenário de Uso
+## Cenario de Uso
 
 1. 📝 Um lead preenche o formulário  
 2. 📊 Os dados caem direto no Google Sheets  
@@ -84,7 +84,7 @@ Tudo isso **de forma instantânea**, sem esforço manual. Magia? Quase. É IA co
 
 ---
 
-## 🚀 Clone e Teste Localmente (Opcional)
+## Clone e Teste Localmente (Opcional)
 
 Quer explorar o projeto na sua máquina? Clone e navegue pelas integrações de forma local:
 
@@ -99,7 +99,7 @@ cd smart-integration-leads
 
 ## Veja em Ação
 
-🧠 **Fluxo de Automação**
+**Fluxo de Automação**
 
 [🔍 Ver Fluxo Completo em Alta Resolução](assets/fluxo-integracao-final.png)
 
@@ -108,7 +108,7 @@ cd smart-integration-leads
 
 ---
 
-## Demonstração Real 
+## Demonstracao Real 
 
 ![Demonstração do formulário com WhatsApp](demonstracao-form-whatsapp.gif)
 

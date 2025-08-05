@@ -23,13 +23,13 @@ Perfeita para freelancers, agências, e-commerces, SaaS e criadores de conteúdo
 
 ## Sumário Rápido 📌
 
-- [Cenário de Uso](#cenário-de-uso)
+- [Cenário de Uso](#cenario-de-uso)
 - [Funcionalidades](#funcionalidades)
 - [Ferramentas Utilizadas](#ferramentas-utilizadas)
 - [Testar este Projeto](#testar-este-projeto)
-- [🚀 Clone e Teste Localmente (Opcional)](#-clone-e-teste-localmente-opcional)
-- [Veja em Ação](#veja-em-ação)
-- [Demonstração Real](#demonstração-real)
+- [🚀 Clone e Teste Localmente (Opcional)](#clone-e-teste-localmente-opcional)
+- [Veja em Ação](#veja-em-acao)
+- [Demonstração Real](#demonstracao-real)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Fale Comigo](#fale-comigo)
 - [Em Desenvolvimento](#em-desenvolvimento)

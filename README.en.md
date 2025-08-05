@@ -5,6 +5,8 @@
 ![Workflow](https://img.shields.io/badge/No--Code-Automation-blueviolet?style=for-the-badge)
 ![GPT Powered](https://img.shields.io/badge/AI-GPT--4-informational?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge)
 
 🇧🇷 [Versão em Português](README.md) | 📖 You’re reading the English version
 
@@ -25,10 +27,12 @@ Perfect for freelancers, agencies, e-commerce, SaaS businesses, and creators who
 - [Features](#features)
 - [Tools Used](#tools-used)
 - [Try This Project](#try-this-project)
+- [Clone and Test Locally (Optional)](#-clone-and-test-locally-optional)
 - [See It in Action](#see-it-in-action)
 - [Live Demo](#live-demo)
 - [Project Structure](#project-structure)
 - [Contact Me](#contact-me)
+- [In Development](#in-development)
 
 ---
 
@@ -80,11 +84,23 @@ All of this **instantly**, with zero manual work. Magic? Almost. It’s AI + aut
 
 ---
 
+## 🚀 Clone and Test Locally (Optional)
+
+Want to explore the project on your machine? Clone and browse through the integrations locally:
+
+```bash
+git clone https://github.com/NeusaM21/smart-integration-leads.git
+cd smart-integration-leads
+```
+
+
+---
+
 ## See It in Action
 
 🧠 **Automation Flow**
 
-![Integration Flow](assets/fluxo-integracao-final.png)
+[🔍 View Full Flow in High Resolution](assets/fluxo-integracao-final.png)
 
 ---
 
@@ -122,8 +138,20 @@ smart-integration-leads/
 
 ---
 
+
 ## 📬 Contact Me
 📧 [contact.neusam21@gmail.com](mailto:contact.neusam21@gmail.com)  
-💼 Open for freelance work and collaborations  
+Open for freelance work and collaborations
+
+---
+
+In Development
+Dashboard with Streamlit
+
+Chatbot integration (Telegram / WhatsApp Business API)
+
+Visual template for easy duplication
+
+---
 
 Let’s automate the world! 😎💻🚀

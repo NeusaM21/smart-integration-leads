@@ -5,6 +5,8 @@
 ![Workflow](https://img.shields.io/badge/No--Code-Automation-blueviolet?style=for-the-badge)
 ![GPT Powered](https://img.shields.io/badge/AI-GPT--4-informational?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge)
 
 📖 [English Version](README.en.md) | 🇧🇷 Você está lendo a versão em Português
 
@@ -19,20 +21,22 @@ Perfeita para freelancers, agências, e-commerces, SaaS e criadores de conteúdo
 
 ---
 
-## Sumario Rapido 📌
+## Sumário Rápido 📌
 
-- [Cenario de Uso](#cenario-de-uso)
+- [Cenário de Uso](#cenário-de-uso)
 - [Funcionalidades](#funcionalidades)
 - [Ferramentas Utilizadas](#ferramentas-utilizadas)
 - [Testar este Projeto](#testar-este-projeto)
-- [Veja em Acao](#veja-em-acao)
-- [Demonstracao Real](#demonstracao-real)
+- [🚀 Clone e Teste Localmente (Opcional)](#-clone-e-teste-localmente-opcional)
+- [Veja em Ação](#veja-em-ação)
+- [Demonstração Real](#demonstração-real)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Fale Comigo](#fale-comigo)
+- [Em Desenvolvimento](#em-desenvolvimento)
 
 ---
 
-## Cenario de Uso
+## Cenário de Uso
 
 1. 📝 Um lead preenche o formulário  
 2. 📊 Os dados caem direto no Google Sheets  
@@ -80,11 +84,24 @@ Tudo isso **de forma instantânea**, sem esforço manual. Magia? Quase. É IA co
 
 ---
 
-## Veja em Acao
+## 🚀 Clone e Teste Localmente (Opcional)
+
+Quer explorar o projeto na sua máquina? Clone e navegue pelas integrações de forma local:
+
+```bash
+git clone https://github.com/NeusaM21/smart-integration-leads.git
+cd smart-integration-leads
+```
+
+
+---
+
+
+## Veja em Ação
 
 🧠 **Fluxo da Automação**  
 
-![Fluxo de Integração](assets/fluxo-integracao-final.png)
+[🔍 Ver Fluxo em Alta Resolução](assets/fluxo-integracao-final.png)
 
 ---
 
@@ -124,9 +141,9 @@ smart-integration-leads/
 
 
 ## 📬 Fale Comigo
-
 📧 [contact.neusam21@gmail.com](mailto:contact.neusam21@gmail.com)  
 💼 Aberta a colaborações e freelas!
+
 
 
 ---

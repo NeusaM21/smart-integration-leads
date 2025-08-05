@@ -142,20 +142,20 @@ smart-integration-leads/
 ---
 
 
-## 📬 Contact
+## Contact
 
-📧 Professional Email: [Send an Email](mailto:contact.neusam21@gmail.com)  
+📬 Professional Email: [Send an Email](mailto:contact.neusam21@gmail.com)  
 🛡️ Open for freelance work and collaborations!
+
 
 
 ---
 
-In Development
-Dashboard with Streamlit
+## In Development
 
-Chatbot integration (Telegram / WhatsApp Business API)
-
-Visual template for easy duplication
+🌱 Dashboard with Streamlit  
+🌱 Chatbot integration (Telegram / WhatsApp Business API)  
+🌱 Visual template for easy duplication
 
 ---
 

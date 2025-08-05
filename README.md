@@ -99,13 +99,16 @@ cd smart-integration-leads
 
 ## Veja em Ação
 
-🧠 **Fluxo da Automação**  
+🧠 **Fluxo de Automação**
 
-[🔍 Ver Fluxo em Alta Resolução](assets/fluxo-integracao-final.png)
+[🔍 Ver Fluxo Completo em Alta Resolução](assets/fluxo-integracao-final.png)
+
+<img src="assets/fluxo-integracao-final.png" alt="Diagrama do Fluxo de Automação" width="100%">
+
 
 ---
 
-## Demonstracao Real 
+## Demonstração Real 
 
 ![Demonstração do formulário com WhatsApp](demonstracao-form-whatsapp.gif)
 
@@ -140,10 +143,10 @@ smart-integration-leads/
 ---
 
 
-## 📬 Fale Comigo
-📧 [contact.neusam21@gmail.com](mailto:contact.neusam21@gmail.com)  
-💼 Aberta a colaborações e freelas!
+## 📬 Contato
 
+📧 E-mail profissional: [Enviar e-mail](mailto:contact.neusam21@gmail.com)  
+🛡️ Disponível para freelas e colaborações!
 
 
 ---

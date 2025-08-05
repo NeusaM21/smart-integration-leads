@@ -27,7 +27,7 @@ Perfect for freelancers, agencies, e-commerce, SaaS businesses, and creators who
 - [Features](#features)
 - [Tools Used](#tools-used)
 - [Try This Project](#try-this-project)
-- [🚀 Clone and Test Locally (Optional)](#clone-and-test-locally-optional)
+- [Clone and Test Locally (Optional)](#clone-and-test-locally-optional)
 - [See It in Action](#see-it-in-action)
 - [Live Demo](#live-demo)
 - [Project Structure](#project-structure)
@@ -84,7 +84,7 @@ All of this **instantly**, with zero manual work. Magic? Almost. It’s AI + aut
 
 ---
 
-## 🚀 Clone and Test Locally (Optional)
+## Clone and Test Locally (Optional)
 
 Want to explore the project on your machine? Clone and browse through the integrations locally:
 
@@ -142,7 +142,7 @@ smart-integration-leads/
 ---
 
 
-## Contact
+## Contact Me
 
 📬 Professional Email: [Send an Email](mailto:contact.neusam21@gmail.com)  
 🛡️ Open for freelance work and collaborations!

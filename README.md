@@ -143,7 +143,7 @@ smart-integration-leads/
 ---
 
 
-## Contato
+## Fale Comigo
 
 📬 E-mail profissional: [Enviar e-mail](mailto:contact.neusam21@gmail.com)  
 🛡️ Disponível para freelas e colaborações!
